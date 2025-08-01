@@ -1,0 +1,272 @@
+Legends
+medium 1 = m1
+medium 2 = m2
+medium 3 = m3
+medium 4 = m4
+medium 5 = m5
+
+easy 1 = e1
+easy 2 = e2
+
+hard 1 = h1
+hard 2 = h2
+hard 3 = h3
+hard 4 = h4
+
+fail = fail
+pass = pass
+
+question = q
+
+correct = c
+wrong = w
+
+firstly we will go on fully as all the answers are correct
+1. test start
+1st q will be m1 if c then goto 2nd q
+2nd q will be m2 if c then goto 3rd q
+3rd q will be h1 if c then goto 4th q
+4th q will be h2 if c then goto 5th q
+5th q will be h3 if c then goto 6th q
+6th q will be h4 if c then the test taker is pass
+
+
+now some fail and pass logic
+
+scenario 1
+
+1st q is m1 if w then go q2
+2nd q is m2 if w then go q3
+3rd q is e1 if w then go q4
+4th q is e2 if w then test taker is fail
+
+scenario 2
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q if w test taker fails
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if w then test taker is fail
+
+
+scenario 3
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+5th q will be m4 if w then test taker is failed
+
+
+scenario 4
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if w then goto 9th q
+9th q will be e2 if w testtaker fails if c then goto 10th q
+10th q will be m4 if w again e2 
+if e2 w testtaker fails if c then m4 if w then test taker failed if  m4 is c goto  
+m3 if m3 failed test taker failed
+
+scenario 5
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q if w testtaker
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q if w testtaker
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if c then goto 9th q
+9th q will be m5 if w then goto 10th q
+10th q will be m3 if w then its e2 if e2 is c then goto 11th q if w testtaker
+11th q will be m4 if c then goto 12th q if w test taker fails 
+12th q will be m3 if w then failed test
+
+scenario 6
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if c then goto 9th q
+9th q will be m5 if w then goto 10th q
+10th q will be m3 if c then goto 11th q 
+11th q will be m5 if w then goto 12th q
+12th q will be m3 if w the m4 if m3 is c then next q will be m5
+if m5 is w again then taker is failed.
+
+scenario 7
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if c then goto 9th q
+9th q will be m5 if w then goto 10th q
+10th q will be m3 if c then goto 11th q 
+11th q will be m5 if w then goto 12th q
+12th q will be m4 if w then goto e2 and we will follow as previous scenerios upto if testtaker came to m5
+13th q is m5 if c then go to 14th q
+14th q is h1 if w then goto m5 and here the logic is same as previous scenarious upto get another h1 if this h1 wrong again we will start from e1 upto h1 if testtaker come to h1 again and the answer is w then taker is failed
+
+scenario 8
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if c then goto 9th q
+9th q will be m5 if w then goto 10th q
+10th q will be m3 if c then goto 11th q 
+11th q will be m5 if w then goto 12th q
+12th q will be m4 if w then goto e2 and we will follow as previous scenerios upto if testtaker came to m5
+13th q is m5 if c then go to 14th q
+14th q is h1 if c then goto 15th q
+15th q will be h2 if w then logic is same as previous h series question
+
+scenario 9
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if c then goto 9th q
+9th q will be m5 if w then goto 10th q
+10th q will be m3 if c then goto 11th q 
+11th q will be m5 if w then goto 12th q
+12th q will be m4 if w then goto e2 and we will follow as previous scenerios upto if testtaker came to m5
+13th q is m5 if c then go to 14th q
+14th q is h1 if c then goto 15th q
+15th q will be h2 if c then goto 16th q
+16th q will be h3 if w then logic is same as previous h series question
+
+scenario 10
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if c then goto 9th q
+9th q will be m5 if w then goto 10th q
+10th q will be m3 if c then goto 11th q 
+11th q will be m5 if w then goto 12th q
+12th q will be m4 if w then goto e2 and we will follow as previous scenerios upto if testtaker came to m5
+13th q is m5 if c then go to 14th q
+14th q is h1 if c then goto 15th q
+15th q will be h2 if c then goto 16th q
+16th q will be h3 if c then goto 17th q
+17th q will be h4 if w then logic is same as previous h series question
+
+scenario 11
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if w then goto 4th q
+4th q will be e2 if c then goto 5th q
+5th q will be m4 if w then goto 6th q
+6th q will be e2 if c then goto 7th q
+7th q will be m4 if c then goto 8th q
+8th q will be m3 if c then goto 9th q
+9th q will be m5 if w then goto 10th q
+10th q will be m3 if c then goto 11th q 
+11th q will be m5 if w then goto 12th q
+12th q will be m4 if w then goto e2 and we will follow as previous scenerios upto if testtaker came to m5
+13th q is m5 if c then go to 14th q
+14th q is h1 if c then goto 15th q
+15th q will be h2 if c then goto 16th q
+16th q will be h3 if c then goto 17th q
+17th q will be h4 if c then test taker pass
+
+scenario 12
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if c then goto 4th q
+4th q will be m3 if w then goto 5th q
+5th q will be e1 if w then goto 6th q
+6th q will be e2 from here on we will do just like previous scenarios logics.
+if they get the process upto and finish h4 then they pass else as per our logic they fail
+
+scenario 13
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if c then goto 4th q
+4th q will be m3 if w then goto 5th q
+5th q will be e1 if r then goto 6th q
+6th q will be m3 if w then goto 7th q
+7th q will be e2 from here on we will do just like previous scenarios logics.
+if they get the process upto and finish h4 then they pass else as per our logic they fail
+
+scenario 14
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if c then goto 4th q
+4th q will be m3 if w then goto 5th q
+5th q will be e1 if r then goto 6th q
+6th q will be m3 if c then goto 7th q
+7th q will be m5 from here on we will do as per logic from previous scenarios.
+if they get the process upto and finish h4 then they pass else as per our logic they fail
+
+scenario 15
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if w then goto 3rd q
+3rd q will be e1 if c then goto 4th q
+4th q will be m3 if c then goto 5th q
+5th q will be m5 from here on we will do just like previous scenarios logics.
+if they get the process upto and finish h4 then they pass else as per our logic they fail
+
+scenario 16 
+
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if c then goto 3rd q
+3rd q will be m1 if w then goto 4th q
+4th q will be e1 from here on we will do just like previous scenarios logics.
+if they get the process upto and finish h4 then they pass else as per our logic they fail
+
+scenario 17
+1st q will be m1 if w then goto 2nd q
+2nd q will be m2 if c then goto 3rd q
+3rd q will be m1 if c then goto 4th q
+4th q will be h1 from here on we will do h-series logic just like previous scenarios logics.
+if they get the process upto and finish h4 then they pass else as per our logic they fail
+
+scenario 18
+1st q will be m1 if c then goto 2nd q
+2nd q will be m2 if c then goto 3rd q
+3rd q will be h1 from here on we will do h-series logic just like previous scenarios logics.
+if they get the process upto and finish h4 then they pass else as per our logic they fail
+
+
+
+
+
+
+
+
