@@ -1,0 +1,13 @@
+2025-07-16 | 00:09 | No face detected
+2025-07-16 | 00:09 | unauthorized_object_detected
+2025-07-16 | 00:11 | No face detected
+2025-07-16 | 00:14 | No face detected
+2025-07-16 07:44:17.829925+00:00 - Proctoring video uploaded
+2025-07-16 07:44:19.449656+00:00 - Proctoring video uploaded
+2025-07-16 | 00:18 | No face detected
+2025-07-16 | 00:19 | unauthorized_object_detected
+2025-07-16 | 00:32 | Talking detected
+2025-07-16 | 00:32 | Talking detected
+2025-07-16 | 00:32 | Talking detected
+2025-07-16 | 00:32 | Talking detected
+2025-07-16 | 00:32 | Talking detected

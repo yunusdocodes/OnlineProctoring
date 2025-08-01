@@ -1,0 +1,14 @@
+2025-07-23 | 00:09 | unauthorized_object_detected
+2025-07-23 | 00:19 | unauthorized_object_detected
+2025-07-23 | 00:29 | unauthorized_object_detected
+2025-07-23 | 00:32 | No face detected
+2025-07-23 | 00:39 | unauthorized_object_detected
+2025-07-23 06:26:47.692321+00:00 - Proctoring video uploaded & optimized
+2025-07-23 | 01:12 | Talking detected
+2025-07-23 | 01:12 | Talking detected
+2025-07-23 | 01:12 | Talking detected
+2025-07-23 | 01:12 | Talking detected
+2025-07-23 | 01:12 | Talking detected
+2025-07-23 | 01:12 | Talking detected
+2025-07-23 | 01:12 | Talking detected
+2025-07-23 | 01:12 | Talking detected

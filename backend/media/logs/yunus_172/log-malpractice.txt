@@ -1,0 +1,131 @@
+2025-07-23 | 00:09 | unauthorized_object_detected
+2025-07-23 | 00:15 | Talking detected
+2025-07-23 | 00:15 | Talking detected
+2025-07-23 | 00:19 | unauthorized_object_detected
+2025-07-23 | 00:20 | Talking detected
+2025-07-23 | 00:20 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:21 | Talking detected
+2025-07-23 | 00:23 | No face detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:26 | Talking detected
+2025-07-23 | 00:29 | unauthorized_object_detected
+2025-07-23 | 00:39 | unauthorized_object_detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:41 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:42 | Talking detected
+2025-07-23 | 00:49 | unauthorized_object_detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:52 | Talking detected
+2025-07-23 | 00:53 | Talking detected
+2025-07-23 | 00:53 | Talking detected
+2025-07-23 | 00:53 | Talking detected
+2025-07-23 | 00:59 | unauthorized_object_detected
+2025-07-23 | 01:09 | unauthorized_object_detected
+2025-07-23 | 01:19 | unauthorized_object_detected
+2025-07-23 05:21:23.445755+00:00 - Proctoring video uploaded & optimized
+2025-07-23 05:21:23.447261+00:00 - Proctoring video uploaded & optimized
+2025-07-23 | 01:29 | unauthorized_object_detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:31 | Talking detected
+2025-07-23 | 01:39 | unauthorized_object_detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:45 | Talking detected
+2025-07-23 | 01:49 | unauthorized_object_detected
+2025-07-23 | 01:59 | unauthorized_object_detected
+2025-07-23 | 02:07 | Talking detected
+2025-07-23 | 02:07 | Talking detected
+2025-07-23 | 02:07 | Talking detected
+2025-07-23 | 02:07 | Talking detected
+2025-07-23 | 02:07 | Talking detected
+2025-07-23 | 02:07 | Talking detected

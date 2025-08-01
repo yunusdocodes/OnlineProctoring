@@ -1,0 +1,102 @@
+2025-07-23 | 00:09 | unauthorized_object_detected
+2025-07-23 | 00:13 | Talking detected
+2025-07-23 | 00:13 | Talking detected
+2025-07-23 | 00:19 | unauthorized_object_detected
+2025-07-23 | 00:27 | Talking detected
+2025-07-23 | 00:27 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:29 | unauthorized_object_detected
+2025-07-23 05:31:11.069900+00:00 - Proctoring video uploaded
+2025-07-23 | 00:42 | unauthorized_object_detected
+2025-07-23 05:31:18.320734+00:00 - Proctoring video uploaded
+2025-07-23 | 00:08 | No face detected
+2025-07-23 | 00:09 | unauthorized_object_detected
+2025-07-23 | 00:14 | No face detected
+2025-07-23 | 00:17 | No face detected
+2025-07-23 | 00:19 | unauthorized_object_detected
+2025-07-23 | 00:20 | No face detected
+2025-07-23 | 00:23 | No face detected
+2025-07-23 | 00:29 | unauthorized_object_detected
+2025-07-23 | 00:39 | unauthorized_object_detected
+2025-07-23 | 00:50 | unauthorized_object_detected
+2025-07-23 05:32:21.408446+00:00 - Proctoring video uploaded
+2025-07-23 | 02:59 | unauthorized_object_detected
+2025-07-23 | 02:59 | unauthorized_object_detected
+2025-07-23 05:34:20.570841+00:00 - Proctoring video uploaded
+2025-07-23 | 02:59 | unauthorized_object_detected
+2025-07-23 | 03:09 | unauthorized_object_detected
+2025-07-23 | 03:19 | unauthorized_object_detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:24 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:25 | Talking detected
+2025-07-23 | 03:26 | Talking detected
+2025-07-23 | 03:26 | Talking detected

@@ -1,0 +1,101 @@
+2025-07-23 | 00:03 | No face detected
+2025-07-23 | 00:08 | No face detected
+2025-07-23 | 00:09 | unauthorized_object_detected
+2025-07-23 | 00:11 | No face detected
+2025-07-23 | 00:19 | unauthorized_object_detected
+2025-07-23 | 00:22 | Talking detected
+2025-07-23 | 00:22 | Talking detected
+2025-07-23 | 00:22 | Talking detected
+2025-07-23 | 00:22 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:23 | Talking detected
+2025-07-23 | 00:24 | Talking detected
+2025-07-23 | 00:24 | Talking detected
+2025-07-23 | 00:24 | Talking detected
+2025-07-23 | 00:24 | Talking detected
+2025-07-23 | 00:24 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:28 | Talking detected
+2025-07-23 | 00:29 | unauthorized_object_detected
+2025-07-23 | 00:38 | No face detected
+2025-07-23 | 00:39 | Talking detected
+2025-07-23 | 00:39 | Talking detected
+2025-07-23 | 00:39 | Talking detected
+2025-07-23 | 00:39 | Talking detected
+2025-07-23 | 00:39 | Talking detected
+2025-07-23 | 00:40 | Talking detected
+2025-07-23 | 00:40 | unauthorized_object_detected
+2025-07-23 06:31:00.920926+00:00 - Proctoring video uploaded & optimized
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:13 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 02:17 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:09 | Talking detected
+2025-07-23 | 06:10 | Talking detected
+2025-07-23 | 06:10 | Talking detected
+2025-07-23 | 06:10 | Talking detected
+2025-07-23 | 06:10 | Talking detected
+2025-07-23 | 06:10 | Talking detected
+2025-07-23 | 06:10 | Talking detected

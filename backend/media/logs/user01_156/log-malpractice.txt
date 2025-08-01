@@ -1,0 +1,14 @@
+2025-07-21 | 00:09 | unauthorized_object_detected
+2025-07-21 | 00:19 | unauthorized_object_detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected
+2025-07-21 | 00:21 | Talking detected

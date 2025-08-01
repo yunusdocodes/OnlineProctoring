@@ -1,0 +1,32 @@
+2025-07-22 | 00:09 | unauthorized_object_detected
+2025-07-22 | 00:14 | Talking detected
+2025-07-22 | 00:14 | Talking detected
+2025-07-22 | 00:14 | Talking detected
+2025-07-22 | 00:14 | Talking detected
+2025-07-22 | 00:14 | Talking detected
+2025-07-22 | 00:14 | Talking detected
+2025-07-22 | 00:19 | Talking detected
+2025-07-22 | 00:19 | Talking detected
+2025-07-22 | 00:19 | unauthorized_object_detected
+2025-07-22 | 00:20 | Talking detected
+2025-07-22 | 00:20 | Talking detected
+2025-07-22 | 00:20 | Talking detected
+2025-07-22 | 00:20 | Talking detected
+2025-07-22 | 00:20 | Talking detected
+2025-07-22 | 00:20 | Talking detected
+2025-07-22 | 00:25 | Talking detected
+2025-07-22 | 00:25 | Talking detected
+2025-07-22 | 00:25 | Talking detected
+2025-07-22 | 00:25 | Talking detected
+2025-07-22 | 00:29 | unauthorized_object_detected
+2025-07-22 | 00:30 | Talking detected
+2025-07-22 | 00:30 | Talking detected
+2025-07-22 06:41:34.841714+00:00 - Proctoring video uploaded
+2025-07-22 06:41:36.227758+00:00 - Proctoring video uploaded
+2025-07-22 | 00:39 | unauthorized_object_detected
+2025-07-22 | 00:47 | Talking detected
+2025-07-22 | 00:47 | Talking detected
+2025-07-22 | 00:48 | Talking detected
+2025-07-22 | 00:48 | Talking detected
+2025-07-22 | 00:48 | Talking detected
+2025-07-22 | 00:48 | Talking detected

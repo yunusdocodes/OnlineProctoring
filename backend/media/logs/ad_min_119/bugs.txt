@@ -1,0 +1,4 @@
+bugsno	bugs					status
+ 1	question dup				incomp
+ 2	video seek				incomp
+ 	

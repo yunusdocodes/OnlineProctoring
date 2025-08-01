@@ -1,0 +1,35 @@
+2025-07-11 | 00:07 | No face detected
+2025-07-11 | 00:08 | unauthorized_object_detected
+2025-07-11 | 00:10 | No face detected
+2025-07-11 | 00:13 | No face detected
+2025-07-11 | 00:16 | No face detected
+2025-07-11 | 00:18 | unauthorized_object_detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:18 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:19 | No face detected
+2025-07-11 | 00:19 | Talking detected
+2025-07-11 | 00:22 | No face detected
+2025-07-11 | 00:25 | No face detected
+2025-07-11 | 00:28 | No face detected
+2025-07-11 | 00:28 | unauthorized_object_detected
+2025-07-11 | 00:31 | No face detected
+2025-07-11 | 00:34 | No face detected
